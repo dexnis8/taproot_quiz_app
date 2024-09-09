@@ -42,6 +42,12 @@ const questionsData = [
     answer: "4",
     placeholder: "e.g 0",
   },
+  {
+    id: 7,
+    text: "@ordinooki + @lepuppettes + @TaprootWitches 🧙‍♀️🧙‍♀️  = ? ",
+    answer: "❤️",
+    placeholder: "e.g 😎",
+  },
   // Add more questions as needed
 ];
 
